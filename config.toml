@@ -1,0 +1,9 @@
+baseURL = "http://generationzero.org.uk/"
+languageCode = "en-gb"
+title = "Generation Zero"
+theme = "ananke"
+#paginate = 12
+
+[taxonomies]
+  author = "authors"
+  category = "categories"
