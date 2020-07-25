@@ -6,7 +6,6 @@ categories:
 date: '2018-01-08T17:18:40Z'
 images:
 - https://i.imgur.com/iJXELpP.jpg
-summary: ''
 title: Am I Mark E. Smith? by Jake Ormrod
 ---
 We spoke about him<br>

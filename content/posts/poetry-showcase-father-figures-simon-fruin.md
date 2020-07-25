@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2016-12-12T09:08:12Z'
-images:
-- ''
-summary: ''
 title: Poetry Showcase - Father Figures by Simon Fruin
 ---
 Glitter tooth traitors hang from fishing line,<br>

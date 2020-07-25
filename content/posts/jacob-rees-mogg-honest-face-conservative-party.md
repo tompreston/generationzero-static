@@ -7,7 +7,6 @@ categories:
 date: '2017-09-06T19:14:44Z'
 images:
 - https://i.imgur.com/QyH4pka.jpg
-summary: ''
 title: "Jacob Rees-Mogg \u2013 The Honest Face Of The Conservative Party"
 ---
 Whenever old Moggy manages to drag himself into the public eye, grabbing headlines and causing internet outrage, I find myself in a bit of an odd spot. On the one hand, I roll my eyes and dig my fingers into my palms at the concept someone this backwards could possibly be handed a position of power. On the other, I am filled with such an odd shame that we share the same name. You know that feeling you get when someone you hate tells you they like one of your favourite bands? It’s like that, except this concerns civil rights rather than The Fall.

@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2017-08-15T11:27:59Z'
-images:
-- ''
-summary: ''
 title: Mint by Brit Medlock
 ---
 The smell of mint was in the air when he reached the top of the trail.<br>

@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2018-03-21T15:08:13Z'
-images:
-- ''
-summary: ''
 title: "pla\xE7a de mercat poem by Jenny Browne"
 ---
 sun’s warm tongue<br>

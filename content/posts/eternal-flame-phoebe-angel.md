@@ -7,7 +7,6 @@ categories:
 date: '2017-07-17T09:22:31Z'
 images:
 - http://i.imgur.com/BTeIOtx.jpg
-summary: ''
 title: eternal flame by Phoebe Angel
 ---
 ![](http://i.imgur.com/BTeIOtx.jpg "")

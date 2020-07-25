@@ -6,7 +6,6 @@ categories:
 date: '2019-09-12T09:05:22Z'
 images:
 - https://i.imgur.com/DtJgnj2.jpg
-summary: ''
 title: Summer In Central India by Kirsty Wells
 ---
 **"With the wind in my hair, perched on the back seats of the open jeep, we drove for hours. 

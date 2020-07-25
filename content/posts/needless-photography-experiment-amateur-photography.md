@@ -8,7 +8,6 @@ categories:
 date: '2016-08-25T15:20:33Z'
 images:
 - http://i.imgur.com/2xSSFn9.jpg
-summary: ''
 title: Needless Photography - An Experiment In Amateur Photography
 ---
 Like pretty much everything I've become obsessed with over the past few years, my love for photography all started with a writer. While reading one of William S. Burroughs' rambling passages detailing a walk through a city whose name doesn't matter, I became enamored by the snapshots he described taking throughout. Even though I never saw them, I spent a whole day imagining them.

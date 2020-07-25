@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2017-05-08T12:19:11Z'
-images:
-- ''
-summary: ''
 title: Citalopram Stories - Cheating And Dealing
 ---
 I’m following a friend down elongated corridors of what feels like a tenement building; door after door after door stretches on forever, set into stone walls, the atmosphere all grey with no hope.

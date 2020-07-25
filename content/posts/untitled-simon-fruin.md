@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2017-07-18T13:39:15Z'
-images:
-- ''
-summary: ''
 title: Untitled by Simon Fruin
 ---
 Plucked from earthen womb<br>

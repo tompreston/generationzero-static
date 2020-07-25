@@ -6,7 +6,6 @@ categories:
 date: '2017-04-25T13:52:04Z'
 images:
 - http://i.imgur.com/Ov6Or3e.jpg
-summary: ''
 title: How I Love by Jake Ormrod
 ---
 After ten years of mistrials and false starts,<br>

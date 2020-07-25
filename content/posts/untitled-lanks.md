@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2017-07-31T14:15:48Z'
-images:
-- ''
-summary: ''
 title: Untitled by Laura Lanks
 ---
 You got ants in your pants?<br>

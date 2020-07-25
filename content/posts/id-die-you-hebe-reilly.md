@@ -6,7 +6,6 @@ categories:
 date: '2017-10-01T17:32:53Z'
 images:
 - https://i.imgur.com/CeuslE7.jpg
-summary: ''
 title: I'd Die For You by Hebe Reilly
 ---
 If I were still in love with you;<br> 

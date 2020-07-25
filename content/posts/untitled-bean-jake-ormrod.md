@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2017-09-11T17:57:23Z'
-images:
-- ''
-summary: ''
 title: untitled - (bean) by Jake Ormrod
 ---
 being asked to fight the fright of yet another night<br>

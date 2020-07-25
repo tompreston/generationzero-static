@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2017-10-01T00:00:00Z'
-images:
-- ''
-summary: ''
 title: smile
 ---
 sticky tendrils drip<br> 

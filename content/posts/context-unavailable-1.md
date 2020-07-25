@@ -7,7 +7,6 @@ categories:
 date: '2020-01-29T16:04:05Z'
 images:
 - https://imgur.com/gjiyVZ2.png
-summary: ''
 title: 'context unavailable #1'
 ---
 ‘context unavailable’ is a collaborative project between old friends Jake Ormrod and Stephanie Hamer. It explores the importance of context within art, asking whether something creative truly needs an explanation.<br>

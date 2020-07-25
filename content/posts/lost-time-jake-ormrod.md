@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2018-01-09T13:40:56Z'
-images:
-- ''
-summary: ''
 title: lost time by Jake Ormrod
 ---
 some baby in the back end of the pub is staring at my hair<br>

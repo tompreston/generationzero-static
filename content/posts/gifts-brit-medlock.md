@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2017-09-17T13:48:18Z'
-images:
-- ''
-summary: ''
 title: Gifts by Brit Medlock
 ---
 You always had your finger at your lips, feeling for something invisible.<br> 

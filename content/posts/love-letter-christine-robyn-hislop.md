@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2016-11-16T12:09:04Z'
-images:
-- ''
-summary: ''
 title: Poetry Showcase - Love Letter To Christine By Robyn Hislop
 ---
 Paused amid an inhale,<br> 

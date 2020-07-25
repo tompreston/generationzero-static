@@ -8,7 +8,6 @@ categories:
 date: '2016-08-18T11:10:45Z'
 images:
 - http://www.jcine.co/wp-content/uploads/2011/11/1-ALLEN.jpeg
-summary: ''
 title: The Importance Of Separating Art From The Artist
 ---
 As each year continues on and the idols keep dropping like flies, the condolences bring with them a raft of life stories that admonish the dead who meant so much to us. While these are often thrown about in an attempt to be rebellious rather than socially conscious, it’s important that these points are taken seriously. That being said, acknowledging the flaws of our creative heroes shouldn’t remove anything from the beauty we see within their body of work.

@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2017-07-15T21:19:31Z'
-images:
-- ''
-summary: ''
 title: Algorithms by Brit Medlock
 ---
 “Who invented computer programming? Hint; child of Lord Byron.”<br>

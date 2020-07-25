@@ -6,7 +6,6 @@ categories:
 date: '2017-06-17T19:42:41Z'
 images:
 - http://i.imgur.com/exXwjVc.jpg
-summary: ''
 title: "It\u2019s Time We Stopped Ignoring The Politics Within Tragedy"
 ---
 Alongside the constant bombardment of election developments, the news has been pretty bleak over the past few weeks. The two terror attacks in London and the Manchester bombing have lead the media into a tailspin of constant reporting that could turn the most optimistic of people. Now, with the fire in Grenfell, we've reached a peak level of depression that is affecting us all. There's been understandable resistance against the political discussion brought about by these events. People don't like to think about it in those terms because it brings into view the possibility that you could've done something to stop it.

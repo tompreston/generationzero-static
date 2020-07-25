@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2018-02-11T17:12:14Z'
-images:
-- ''
-summary: ''
 title: "don\u2019t worry everything is fine by Jenny Browne"
 ---
 does anybody know how to<br>

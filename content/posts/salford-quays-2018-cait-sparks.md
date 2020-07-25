@@ -6,7 +6,6 @@ categories:
 date: '2018-07-02T14:40:08Z'
 images:
 - https://i.imgur.com/khlXdmC.jpg
-summary: ''
 title: Salford Quays (2018) by Cait Sparks
 ---
 These pieces are inspired by the nature and architecture of Salford Quays. They represent the balance between humanity and nature while encapsulating the bright contemporary buzz of the site itself.

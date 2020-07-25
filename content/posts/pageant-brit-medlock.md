@@ -6,7 +6,6 @@ categories:
 date: '2017-04-19T15:56:38Z'
 images:
 - http://i.imgur.com/qYUCTzA.jpg
-summary: ''
 title: Pageant by Brit Medlock
 ---
 She lies in the dark, shrouded in sleep, heavy with memory.<br>

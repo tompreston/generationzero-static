@@ -6,7 +6,6 @@ categories:
 date: '2017-06-07T20:37:31Z'
 images:
 - http://i.imgur.com/iCLXsOm.jpg
-summary: ''
 title: Thoughts On The Election
 ---
 A group of kids are in the pub garden, a whole mob of them, way too loud for people who have experienced little. The lads look like Mac Demarco and the ladies like Lily Allen. They're driving the regulars out, their upbeat chatter and inner workings getting on peoples nerves.

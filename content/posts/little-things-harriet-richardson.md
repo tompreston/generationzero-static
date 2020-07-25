@@ -6,7 +6,6 @@ categories:
 date: '2017-03-21T09:44:01Z'
 images:
 - http://i.imgur.com/6O6MVQq.jpg
-summary: ''
 title: The Little Things by Harriet Richardson
 ---
 "The Little Things" is a group of ongoing illustrations by Harriet Richardson. Not only do they provide an insight into her mind, they also speak to the experiences and personality of the viewer. I love them.

@@ -6,7 +6,6 @@ categories:
 date: '2019-09-23T13:49:13Z'
 images:
 - https://i.imgur.com/QxXp7jv.png
-summary: ''
 title: Study of Butoh Dancer Falling by Stephanie Hamer
 ---
 Study of Butoh Dancer Falling (2019)<br>

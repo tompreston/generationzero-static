@@ -6,7 +6,6 @@ categories:
 date: '2017-05-12T09:28:34Z'
 images:
 - http://i.imgur.com/97qa0cx.jpg
-summary: ''
 title: "Citalopram Stories No.5 \u2013 Untitled"
 ---
 I was joined for the second night in a row by a conveyor belt of characters I was unable to fully recognise. I spent most of the dream reading a book yet unpublished by Russell Brand, walking through the streets of an unnamed city spending all my time on words as they made everything pointless.

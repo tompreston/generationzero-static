@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2017-04-26T15:38:50Z'
-images:
-- ''
-summary: ''
 title: percentage of thus by Luke Steinman
 ---
 The feeling when they switch offline: a drop of the stomach; a loss of self.<br>

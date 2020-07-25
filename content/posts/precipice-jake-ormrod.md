@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2017-06-27T10:23:29Z'
-images:
-- ''
-summary: ''
 title: Precipice by Jake Ormrod
 ---
 Hammond, Johnson, Hunt or Gove.<br>

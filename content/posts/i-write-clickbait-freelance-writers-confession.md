@@ -7,7 +7,6 @@ categories:
 date: '2017-02-24T13:25:43Z'
 images:
 - http://i.imgur.com/TQq4LZ8.png
-summary: ''
 title: I Write Click Bait - A Freelance Writer's Confession
 ---
 When I meet new people or mutual friends at pubs, bars and houses, I’m met with a dilemma that most people don’t hit when they’re engaging in small talk. It used to be that when people asked me what I do, I told them that I worked at an office part time while I finished my MA. Once that office bollocks fell through, I finished my Masters in and I turned to freelance writing as a way to make rent while still allowing myself time to pursue a career in creativity. This means I no longer know how to answer this question without one or both of us feeling uncomfortable.

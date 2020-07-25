@@ -7,7 +7,6 @@ categories:
 date: '2018-06-13T11:58:43Z'
 images:
 - https://i.imgur.com/WFQ84uS.jpg
-summary: ''
 title: Out Of Site Out Of Mind (2018) by Cait Sparks
 ---
 I am an environmental artist with an ecological voice. Experimentation with site specific installations and researching bio-degradable materials are displayed in my work. Being a tactile artist I create texture using nature and plaster, plaster being the material I have been using the most in my studio practice. Site plays a large part in my art I enjoy being outdoors and using natural or found materials in my work.

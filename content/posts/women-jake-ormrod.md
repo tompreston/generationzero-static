@@ -6,7 +6,6 @@ categories:
 date: '2018-03-08T10:32:19Z'
 images:
 - https://i.imgur.com/aO2RaHK.jpg
-summary: ''
 title: women by Jake Ormrod
 ---
 forget the inventions<br>

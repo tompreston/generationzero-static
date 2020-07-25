@@ -6,7 +6,6 @@ categories:
 date: '2017-11-07T13:02:31Z'
 images:
 - https://i.imgur.com/oMTdCzD.jpg
-summary: ''
 title: drugs are boring by Jake Ormrod
 ---
 the news is out, drugs are boring<br>

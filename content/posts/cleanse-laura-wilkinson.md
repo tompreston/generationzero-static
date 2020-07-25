@@ -6,7 +6,6 @@ categories:
 date: '2018-06-10T10:47:28Z'
 images:
 - https://i.imgur.com/0S9Ct4X.png
-summary: ''
 title: Cleanse by Laura Wilkinson
 ---
 Why oh why<br>

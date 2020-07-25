@@ -6,7 +6,6 @@ categories:
 date: '2017-09-19T14:59:26Z'
 images:
 - https://i.imgur.com/42tWyVZ.png
-summary: ''
 title: project outline several times by Phoebe Angel
 ---
 <iframe src="https://player.vimeo.com/video/234153844" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

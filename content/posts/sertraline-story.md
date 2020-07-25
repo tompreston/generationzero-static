@@ -6,7 +6,6 @@ categories:
 date: '2017-05-14T13:49:50Z'
 images:
 - http://i.imgur.com/QDV5Qx4.jpg
-summary: ''
 title: A Sertraline Story
 ---
 My couch digs deeper than hers.

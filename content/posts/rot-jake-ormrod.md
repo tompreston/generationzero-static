@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2018-01-30T19:04:19Z'
-images:
-- ''
-summary: ''
 title: rot by jake ormrod
 ---
 Forgetting how to love<br>

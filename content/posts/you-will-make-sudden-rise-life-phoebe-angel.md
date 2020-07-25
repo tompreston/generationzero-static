@@ -7,7 +7,6 @@ categories:
 date: '2017-08-17T13:09:36Z'
 images:
 - http://i.imgur.com/vjF2VIu.jpg
-summary: ''
 title: YOU WILL MAKE A SUDDEN RISE IN LIFE by Phoebe Angel
 ---
 ![](http://i.imgur.com/vjF2VIu.jpg "")

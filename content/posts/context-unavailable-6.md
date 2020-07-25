@@ -9,7 +9,6 @@ categories:
 date: '2020-03-12T08:28:12Z'
 images:
 - https://imgur.com/xTuWOoH.png
-summary: ''
 title: 'context unavailable #6'
 ---
 ![](https://imgur.com/xTuWOoH.png "")

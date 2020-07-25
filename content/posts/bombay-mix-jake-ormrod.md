@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2018-01-31T11:17:26Z'
-images:
-- ''
-summary: ''
 title: Bombay Mix by Jake Ormrod
 ---
 it's in one of those bowls<br>

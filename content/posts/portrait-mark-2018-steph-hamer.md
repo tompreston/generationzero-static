@@ -6,7 +6,6 @@ categories:
 date: '2018-07-19T12:44:40Z'
 images:
 - https://i.imgur.com/GxakVtL.jpg
-summary: ''
 title: Portrait Of Mark (2018) by Steph Hamer
 ---
 Acrylic On Board

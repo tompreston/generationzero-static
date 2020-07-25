@@ -6,7 +6,6 @@ categories:
 date: '2017-01-02T16:56:41Z'
 images:
 - http://i.imgur.com/8GGXPqs.jpg
-summary: ''
 title: End The Stigma
 ---
 It's only every now and then you'll find someone out there that creates something just in the hope of helping someone else or pushing a movement forward. Not only does society often teach us that the world is too harsh to be looking out for anybody else, but it also treats creativity and mental health as something less important than making money. However, these people are out there, and one of those people is Kat Selwyn Layton.

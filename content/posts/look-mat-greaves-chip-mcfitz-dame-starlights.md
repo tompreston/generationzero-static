@@ -7,7 +7,6 @@ categories:
 date: '2017-06-02T14:09:29Z'
 images:
 - http://i.imgur.com/kN9cRQj.jpg
-summary: ''
 title: 'A Look At Mat Greaves'' "Chip McFitz: A Dame In Starlights"'
 ---
 Reflecting the sort of comedic flip on a dramatic stalwart, usually created by the likes of the Coen Brothers, Chip McFitz: A Dame In Starlights attempts to parody rather than pay homage to the now famous noir tropes. Don’t get me wrong, there’s a lot of love in these pages for some clear influences, but the priority here is laughter, which shows.

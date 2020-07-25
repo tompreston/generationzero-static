@@ -6,7 +6,6 @@ categories:
 date: '2016-11-25T16:02:05Z'
 images:
 - http://i.imgur.com/0SRrgIu.jpg
-summary: ''
 title: Poetry Showcase - Bitter End by Sam Lee-Potter
 ---
 On the mountain<br>

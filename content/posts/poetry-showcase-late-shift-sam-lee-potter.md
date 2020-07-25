@@ -6,7 +6,6 @@ categories:
 date: '2016-09-09T12:16:42Z'
 images:
 - http://i.imgur.com/TdeKYHP.jpg
-summary: ''
 title: Poetry Showcase - Late Shift by Sam Lee-Potter
 ---
 Here we have a poem from Sam Lee-Potter, a close friend currently living in China.

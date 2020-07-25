@@ -6,7 +6,6 @@ categories:
 date: '2017-02-14T16:56:10Z'
 images:
 - http://i.imgur.com/rKvnWAG.png
-summary: ''
 title: Who Should We Believe When It Comes To The NHS?
 ---
 As we watch the last remaining jewel in Britain’s crown flushed down the toilet of progress, along with the twin dumps of EU Citizenship and Religious Equality, it’s hard to know who to listen to. Rather than having two clear and delineated sides that argue against one another, it would seem that the only thing people can’t agree on is how well the toilet is working.

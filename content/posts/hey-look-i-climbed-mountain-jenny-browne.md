@@ -6,7 +6,6 @@ categories:
 date: '2017-10-03T19:11:02Z'
 images:
 - https://i.imgur.com/yaceBgN.jpg
-summary: ''
 title: 'Poems of Los Anchos #6 - hey look i climbed a mountain by Jenny Browne'
 ---
 _"Walked for three hours in a pair of shit boots not knowing where I was and ran through the woods til my feet blistered. Stopped at a spring for a cold shower. Feeling hot and nice and pleased with myself. I got to the top and thought about Ray and Japhy in the Dharma Bums, when they are talking and arguing about the fact you can’t fall off a mountain. It’s impossible. Sitting here with zero clothes on and the view and peaks for miles and the giant ants and the mad wind."_

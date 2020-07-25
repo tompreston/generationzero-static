@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2017-10-01T16:57:05Z'
-images:
-- ''
-summary: ''
 title: Heartbreak by Jake Ormrod
 ---
 'It comes in waves.'<br>

@@ -6,7 +6,6 @@ categories:
 date: '2017-05-11T09:24:52Z'
 images:
 - http://i.imgur.com/N8eTKL8.jpg
-summary: ''
 title: "Citalopram Stories No 4. \u2013 The Party"
 ---
 When we walked through the door, we being me, Alice, Sam, a group of girls I’d never met and a girl who looked just like Natalie but wasn’t Natalie, the lights hit us hard. They’d been strung up around the wooden beams violently thrusting through the ceiling. The music was incredibly loud, invasive almost. I didn’t recognise the house at all but I knew it belonged to Steph and Kyle.

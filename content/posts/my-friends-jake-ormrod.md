@@ -6,7 +6,6 @@ categories:
 date: '2017-07-19T12:02:57Z'
 images:
 - http://i.imgur.com/C0wxz5J.jpg
-summary: ''
 title: For My Friends by Jake Ormrod
 ---
 This is for the friends who stand by me at my worst<br>

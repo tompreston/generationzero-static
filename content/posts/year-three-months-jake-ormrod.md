@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2018-02-03T12:53:24Z'
-images:
-- ''
-summary: ''
 title: a year (in three months) by Jake Ormrod
 ---
 i can hear you crying from the hotel bed<br>

@@ -6,7 +6,6 @@ categories:
 date: '2018-08-31T11:14:31Z'
 images:
 - https://i.imgur.com/b6qeZyX.jpg
-summary: ''
 title: five feet of fire by Jake Ormrod
 ---
 one woman with the strength of thousands<br>

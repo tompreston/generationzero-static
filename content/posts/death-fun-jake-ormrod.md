@@ -6,7 +6,6 @@ categories:
 date: '2017-10-02T13:20:05Z'
 images:
 - https://i.imgur.com/zZFHyQN.jpg
-summary: ''
 title: The Death Of Fun by Jake Ormrod
 ---
 I remember the death of fun,<br>

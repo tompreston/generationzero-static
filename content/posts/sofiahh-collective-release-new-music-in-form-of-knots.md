@@ -7,7 +7,6 @@ categories:
 date: '2017-07-27T16:28:18Z'
 images:
 - http://i.imgur.com/TxruJwE.png
-summary: ''
 title: SOFIAHH Collective Release New Music In The Form Of The Knots
 ---
 SOFIAHH

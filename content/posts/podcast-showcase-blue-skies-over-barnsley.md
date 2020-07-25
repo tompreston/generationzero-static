@@ -7,7 +7,6 @@ categories:
 date: '2016-10-28T14:59:13Z'
 images:
 - http://i.imgur.com/GUsf0b7.jpg
-summary: ''
 title: Podcast Showcase - Blue Skies Over Barnsley
 ---
 It's easy to get cynical in this world. I'm used to being surrounded by pessimistic creativity and skepticism, but when my mate Joe sent me this podcast along, it was impossible to feel anything but calm and warm. Looking back to time that many don't remember, this podcast is a chance to take a chuck out of your day for something unequivocally lovely. I implore you all to take that chance.

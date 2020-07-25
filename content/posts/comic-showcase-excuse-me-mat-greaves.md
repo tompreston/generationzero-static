@@ -7,7 +7,6 @@ categories:
 date: '2016-10-10T18:06:00Z'
 images:
 - http://i.imgur.com/SXrssVW.jpg
-summary: ''
 title: Comic Showcase - Excuse Me by Mat Greaves
 ---
 ![](http://imgur.com/XnNuMOW.jpg "")

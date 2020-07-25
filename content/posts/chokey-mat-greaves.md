@@ -6,7 +6,6 @@ categories:
 date: '2017-10-01T18:05:06Z'
 images:
 - https://i.imgur.com/Prh1MkM.jpg
-summary: ''
 title: CHOKEY by Mat Greaves
 ---
 ![](https://i.imgur.com/Prh1MkM.jpg "")

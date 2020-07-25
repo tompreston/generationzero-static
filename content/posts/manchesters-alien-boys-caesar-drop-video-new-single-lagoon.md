@@ -6,7 +6,6 @@ categories:
 date: '2017-05-15T11:27:09Z'
 images:
 - http://i.imgur.com/EWq1IaD.jpg
-summary: ''
 title: "MANCHESTER\u2019S ALIEN-BOYS CAESAR DROP VIDEO FOR NEW SINGLE \u2018A LAGOON\u2019"
 ---
 ![](http://i.imgur.com/EWq1IaD.jpg "")

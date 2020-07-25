@@ -7,7 +7,6 @@ categories:
 date: '2017-09-04T12:55:15Z'
 images:
 - https://i.imgur.com/CyP6JSY.jpg
-summary: ''
 title: "La Chica de M\xE9xico by Steph Hamer"
 ---
 ![](https://i.imgur.com/CyP6JSY.jpg "")

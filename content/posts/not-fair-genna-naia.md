@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2019-10-01T13:32:14Z'
-images:
-- ''
-summary: ''
 title: Not Fair by Genna Naia
 ---
 It's not fair that you're angry<br>

@@ -6,7 +6,6 @@ categories:
 date: '2017-04-14T20:03:49Z'
 images:
 - http://i.imgur.com/UVVcF3w.jpg
-summary: ''
 title: One for Luce by Laura Lanks
 ---
 Counting days, tallying weeks<br>

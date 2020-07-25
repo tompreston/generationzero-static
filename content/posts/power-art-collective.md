@@ -7,7 +7,6 @@ categories:
 date: '2016-09-06T17:12:01Z'
 images:
 - http://i.imgur.com/eeS7fWy.jpg
-summary: ''
 title: The Power Of The Art Collective - Collaboration As The Future Of Artistic Endeavour
 ---
 In a country that is seemingly bereft of any incentive to follow dreams that lie outside of the status quo or pursue anything that doesn’t bring in money, it’s getting harder to live as an artist. In the past, carving out a niche was the difficult part, hoping that your own brand of creativity would speak out to the world around you in a way that nobody else has achieved. Now, the greatest difficulty is trying to make sure that you can pay your monthly outgoings.

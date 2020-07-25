@@ -6,7 +6,6 @@ categories:
 date: '2018-03-01T14:40:50Z'
 images:
 - https://i.imgur.com/WBYjZCm.png
-summary: ''
 title: 'Gutz #3 by Mat Greaves'
 ---
 ![](https://i.imgur.com/WBYjZCm.png "")

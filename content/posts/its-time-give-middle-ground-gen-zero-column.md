@@ -6,7 +6,6 @@ categories:
 date: '2016-11-09T17:39:21Z'
 images:
 - http://i.imgur.com/HJiIvpc.jpg
-summary: ''
 title: It's Time To Give Up On The Middle Ground - Gen Zero Column
 ---
 On this difficult morning, one filled with autumn leaves and similarly orange leaders, I decided to take a walk while listening to Death Grips as loud as physically possible, allowing the blood blister I’d acquired the night before to split and sting within my boot. The various fluids caused my sock to stick to me and each harsh step down a curb caused a wince which formed into a smile, each corner a chance to grind my heel into the lack of support in my poorly laced boots.

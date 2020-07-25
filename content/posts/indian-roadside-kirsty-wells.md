@@ -6,7 +6,6 @@ categories:
 date: '2019-02-01T15:40:21Z'
 images:
 - https://i.imgur.com/y1eCP5s.png
-summary: ''
 title: Indian Roadside by Kirsty Wells
 ---
 After some time I decline to notice<br>

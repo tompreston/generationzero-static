@@ -8,7 +8,6 @@ categories:
 date: '2017-01-31T12:53:04Z'
 images:
 - http://i.imgur.com/gHCPYOw.jpg
-summary: ''
 title: The Inner Station by Mat Greaves
 ---
 ![](http://i.imgur.com/Tln48TT.jpg "")

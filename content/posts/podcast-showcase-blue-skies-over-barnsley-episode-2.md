@@ -6,7 +6,6 @@ categories:
 date: '2016-11-17T12:55:21Z'
 images:
 - http://i.imgur.com/3kanWjo.jpg
-summary: ''
 title: Podcast Showcase - Blue Skies Over Barnsley Episode 2
 ---
 As we wave goodbye to an objectively crap year, one that has proven there is very little we can all feel happy about these days, I suggest a dose of Blue Skies Over Barnsley. We've already had a look at episode one [here](http://generationzero.org.uk/entry/podcast-showcase-blue-skies-over-barnsley/ ""), but now the Grandma/Grandson duo have moved from food onto the relatively broad topic Conflict. This is the most calming podcast I have ever heard, from Sheila's soft voice, to Joe's musings and even the lovely ending music. While I would like to see some longer interviews, and maybe some retrospectives where Joe's musings are put to Sheila rather than just the audience, I cannot recommend you listen to this enough. Enjoy.

@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2017-10-02T12:46:26Z'
-images:
-- ''
-summary: ''
 title: Kindness by Simon Fruin
 ---
 I can't stay out like this.  I'd spent the day getting lost. I guess that's what I set out to do.

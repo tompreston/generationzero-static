@@ -6,7 +6,6 @@ categories:
 date: '2017-10-02T12:37:54Z'
 images:
 - https://i.imgur.com/iIy1yVx.jpg
-summary: ''
 title: Self Portrait by Steph Hamer
 ---
 Acrylic on Perspex

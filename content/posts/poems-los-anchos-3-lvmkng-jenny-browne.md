@@ -6,7 +6,6 @@ categories:
 date: '2017-09-06T14:14:16Z'
 images:
 - https://i.imgur.com/yaceBgN.jpg
-summary: ''
 title: 'Poems of Los Anchos #3 - LVMKNG by Jenny Browne'
 ---
 _"Sitting covered in sun cream all sticky fresh faced hello I am on holiday. Everything is still and green and blue. Walking along the river catching the last of the sun, lying down between these four white walls which have become everything. No jobs no people nothing to do but each other."_

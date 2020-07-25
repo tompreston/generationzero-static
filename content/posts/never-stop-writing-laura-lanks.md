@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2017-05-05T14:40:09Z'
-images:
-- ''
-summary: ''
 title: Never stop writing by Laura Lanks
 ---
 Shapes take meaning<br>

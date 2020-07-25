@@ -7,7 +7,6 @@ categories:
 date: '2018-01-05T12:55:35Z'
 images:
 - https://i.imgur.com/Vh3xy8H.jpg
-summary: ''
 title: The Wedding! Staring the Poynton Family by Ellie McCormick
 ---
 Not your average wedding invite, here we have a screen print on A3 by Ellie McCormick.

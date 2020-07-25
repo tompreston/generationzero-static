@@ -6,7 +6,6 @@ categories:
 date: '2017-08-18T14:17:43Z'
 images:
 - http://i.imgur.com/yaceBgN.jpg
-summary: ''
 title: 'Poems of Los Anchos #1 - Starting Out by Jenny Browne'
 ---
 At the end of April this year, I went on a little trip to spend some time with myself. I left Portugal, travelling over the border to the south of Spain, via Seville, Malaga and Ubeda. I sat on a rickety bus through the red desert dirt of Jaen, into the mountains of Andalusia to a little village called Los Anchos, where I stayed for just over a week. 

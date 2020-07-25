@@ -6,7 +6,6 @@ categories:
 date: '2017-06-10T16:13:41Z'
 images:
 - http://i.imgur.com/nNbfuhM.jpg
-summary: ''
 title: 'Thoughts On The Election: An Update'
 ---
 Here I am again, around 48 hours later. The pub garden is surprisingly empty this time, filled with silence rather than the usual weekend drinkers. The news is playing on a loop, as it has been all day, reiterating information seemingly forever. It's a difficult day to articulate.

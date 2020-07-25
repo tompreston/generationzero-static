@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2016-09-30T08:35:43Z'
-images:
-- ''
-summary: ''
 title: Poetry Showcase - Untitled by Simon Fruin
 ---
 Sunshine and raindrops<br>

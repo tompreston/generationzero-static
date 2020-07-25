@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2019-09-27T14:47:19Z'
-images:
-- ''
-summary: ''
 title: bath by Jake Ormrod
 ---
 water taps<br>

@@ -7,7 +7,6 @@ categories:
 date: '2017-11-23T15:48:58Z'
 images:
 - https://i.imgur.com/2M50GbI.jpg
-summary: ''
 title: HAIR by Charly-Rose Smith
 ---
 _"I scribbled this at 2am (silly o’clock) on my phone notes. 12 years of bottled up anxiety, depression, negative energy. Snippets of my experience are resurfacing like from a past life, and I will share as much as I can, as far as I can, and as wide as I can. Until I am restored and she is restored."_

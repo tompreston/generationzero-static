@@ -6,7 +6,6 @@ categories:
 date: '2016-11-24T16:36:58Z'
 images:
 - http://i.imgur.com/z7SAEAU.jpg
-summary: ''
 title: Post-Truth Politics Has Ruined Satire For All Of Us - Gen Zero Column
 ---
 As a self-diagnosed artist and writer who has spent the last decade shifting further and further onto the left side of the political seesaw, watching as my weight carried the right higher up in cultural esteem, it’s in difficult times like this that I’m supposed to thrive. Hard times are supposed to create good art, strife bringing out the best in us. What a shame then that those instilling the hard times are also taking away our ability to create art, not only by viciously cutting funding for anything that requires imagination or empathy, but also taking away the entire concept of irony.

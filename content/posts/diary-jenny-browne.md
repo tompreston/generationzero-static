@@ -4,9 +4,6 @@ authors:
 categories:
 - writing
 date: '2017-04-27T11:07:49Z'
-images:
-- ''
-summary: ''
 title: (diary) by Jenny Browne
 ---
 someone somewhere is running a bath<br>
