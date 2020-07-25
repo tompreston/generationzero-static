@@ -1,7 +1,8 @@
 baseURL = "http://generationzero.org.uk/"
 languageCode = "en-gb"
 title = "Generation Zero"
-theme = "ananke"
+#theme = "ananke"
+theme = "gzer0"
 #paginate = 12
 
 [taxonomies]
