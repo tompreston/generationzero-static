@@ -1,0 +1,35 @@
+<footer class="footer">
+	<p>Copyright © 2016 &dash; {{ now.Format "2006" }} Generation Zero</p>
+</footer>
+
+{{ block "js" . }}
+{{ end }}
+
+<script type="text/javascript">
+var GenerationZero = {
+  menu_dropdown_is_visible: false,
+    slide_opts: {duration: 400, easing: 'swing'},
+};
+
+GenerationZero.menu_dropdown_hide = function() {
+    $("#menu-dropdown").slideUp(GenerationZero.slide_opts);
+    GenerationZero.menu_dropdown_is_visible = false;
+};
+
+GenerationZero.menu_dropdown_show = function() {
+    $("#menu-dropdown").slideDown(GenerationZero.slide_opts);
+    GenerationZero.menu_dropdown_is_visible = true;
+};
+
+// event handlers
+$('#menu-burger-control a').click(function() {
+  if (GenerationZero.menu_dropdown_is_visible) {
+    GenerationZero.menu_dropdown_hide();
+  } else {
+    GenerationZero.menu_dropdown_show();
+  }
+});
+</script>
+
+<!-- Google Analytics -->
+<!-- TODO -->

@@ -1,0 +1,50 @@
+<div id="masthead_container">
+	<div id="masthead">
+		<img src="{{ "img/branding.png" | relURL }}">
+	</div>
+</div>
+
+<div id="header_container">
+	<div id="branding">
+		<a href="{{ .Site.BaseURL }}">
+			<img src="{{ "img/branding.png" | relURL }}" id="main-logo-small">
+		</a>
+	</div>
+
+	<div id="header">
+		<div id="navigation">
+			<ul>
+				{{ range $name, $items := .Site.Taxonomies.categories }}
+				<li>
+					<a href="{{ "categories/" | relURL }}{{ $name | urlize | lower }}">
+						{{ $name }}
+					</a>
+				</li>
+				{{ end }}
+				<!--
+				<li>
+					<a href="">Issues</a>
+				</li>
+				-->
+			</ul>
+		</div>
+	</div>
+
+	<div id="menu-burger-control">
+		<a href="#" id="menu-burger-open">&#9776;</a>
+		<!-- TODO animate to close when open
+		<a href="#" id="menu-burger-close">&#x00d7;</a>
+		-->
+	</div>
+
+</div>
+
+<div id="header_mobile">
+	<div id="branding_mobile">
+		<a href="{{ .Site.BaseURL }}">
+			<img src="{{ "img/branding.png" | relURL }}" id="main-logo-small">
+		</a>
+	</div>
+</div>
+
+{{ partial "drop-down-menu.html" }}

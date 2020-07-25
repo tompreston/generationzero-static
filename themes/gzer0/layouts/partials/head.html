@@ -1,0 +1,35 @@
+<head>
+	<meta charset="utf-8">
+	<title>{{ block "title" . }}
+		{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}
+	{{ end }}</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	{{ block "favicon" . }}
+	{{ partialCached "site-favicon.html" . }}
+	{{ end }}
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" type="text/css" href="{{ "css/main.css" | relURL }}">
+	<link rel="stylesheet"
+		href="https://unpkg.com/purecss@1.0.0/build/pure-min.css"
+		integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w"
+		crossorigin="anonymous">
+	<!--[if lte IE 8]>
+	<link rel="stylesheet"
+		href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-old-ie-min.css">
+	<![endif]-->
+	<!--[if gt IE 8]><!-->
+	<link rel="stylesheet"
+		href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-min.css">
+	<!--<![endif]-->
+
+	<!-- Javascript -->
+	<script src="https://code.jquery.com/jquery-1.12.4.min.js"
+		integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+		crossorigin="anonymous"></script>
+	<script type="text/javascript"
+		src="{{ "js/masthead.js" | relURL }}"
+		charset="utf-8"></script>
+
+</head>

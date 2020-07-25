@@ -1,0 +1,234 @@
+@font-face{
+    font-family: "Clearface-Bold";
+    src: url('../font/Clearface-Bold.ttf'),
+    url('../font/Clearface-Bold.eot'); /* IE */
+}
+
+/* TYPOGRAPHY */
+@font-face{
+    font-family: "DIN-Black";
+    src: url('../font/DIN-Black.ttf'),
+    url('../font/DIN-Black.eot'); /* IE */
+}
+
+@font-face{
+    font-family: "FuturaStd-BookOblique";
+    src: url('../font/FuturaStd-BookOblique.ttf'),
+    url('../font/FuturaStd-BookOblique.eot'); /* IE */
+}
+
+/* default to DIN-Black, the specificity of the elements here counts */
+html body * {
+    font-family: "DIN-Black";
+}
+
+#menu-dropdown .menu-dropdown-title {
+    font-family: "DIN-Black";
+}
+
+#menu-dropdown a,
+#menu-dropdown p,
+#main_content .entry-container .entry-content p {
+    font-family: "Gill Sans", sans-serif;
+}
+
+.entry-categories,
+.entry-well-categories {
+    font-family: "FuturaStd-BookOblique";
+}
+
+.issue-well .issue-well-content .issue-well-content-text,
+.entry-well .entry-well-content .entry-well-content-text {
+    font-family: "Clearface-Bold";
+}
+
+a {
+    color: #777;
+    text-decoration: none;
+}
+a:visited {
+  color: #777;
+}
+a:hover {
+  color: #777;
+  text-decoration: underline;
+}
+
+/* MISC POSITIONINGS */
+div#menu-dropdown.hide,
+.hide {
+    display: none;
+}
+
+/* MAIN HEADER w/ NAVIGATION ETC. */
+#header_container {
+    /* center all inline content */
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 5px solid rgb(0, 0, 0);
+}
+#menu-dropdown a,
+#header_container a {
+    color: #000;
+    text-decoration: none;
+}
+#menu-dropdown a:visited,
+#header_container a:visited {
+  color: #000;
+}
+#header {
+    padding: 25px 0;
+}
+#header_mobile {
+    display: none;
+}
+#masthead_container {
+    width: 100%;
+}
+#masthead {
+    position: relative;
+    top: 0;
+    left: 0;
+    margin: 2% auto;
+    z-index: 9000;
+    text-align: center;
+}
+
+#branding, #menu-burger-control {
+    /* opacity is 0 at first so it can fade in */
+    opacity: 0;
+}
+
+#branding {
+    position: absolute;
+    top: 18px;
+    left: 15px;
+}
+#branding #main-logo-small {
+    height: 52px;
+}
+
+#navigation ul {
+    margin: 0;
+    padding: 0;
+}
+#navigation li {
+    display: inline-block;
+    margin: 7px 10px 0 10px;
+}
+#navigation a {
+    font-size: 26px;
+}
+
+/* menu dropdown */
+#menu-burger-control {
+    position: absolute;
+    top: 18px;
+    right: 15px;
+    width: 30px;
+    font-size: 27px;
+    padding-top: 3px;
+}
+
+#menu-dropdown {
+    padding: 20px 20px;
+    width: 100%;
+    border-bottom: 2px solid rgb(200, 200, 200);
+}
+
+#menu-dropdown div {
+    font-size: 20px;
+}
+
+#menu-dropdown-contact p {
+    margin: 0;
+}
+p#menu-dropdown-contact-email {
+    margin-bottom: 5px;
+}
+
+.menu-dropdown-title {
+    margin-bottom: 5px;
+}
+
+#menu-dropdown-social ul {
+    margin: 0;
+    padding: 0;
+}
+
+#menu-dropdown-social ul > li {
+    display: inline-block;
+    padding-right: 5px;
+}
+
+.sociallink img {
+    height: 25px;
+}
+
+/* main content
+ * The width property specifies the width of the content, not including
+ * margin/border/padding. So, since what we're actually describing here is
+ * that we want all elements to be within 100% of the page, we have to wrap
+ * it all in a container.
+ */
+#main_content_container {
+    width: 100%;
+}
+#main_content {
+    margin: 20px 15px 0 15px;
+}
+
+.entry-content figure {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.entry-content figure figcaption {
+    font-family: "Gill Sans", sans-serif;
+    font-style: italic;
+    font-size: 0.8em;
+}
+
+/* footer stuff */
+.footer {
+    width: 100%;
+    border-top: 4px solid rgb(0, 0, 0);
+    font-family: "DIN-Black";
+    text-align: center;
+}
+
+/* Smartphones */
+@media only screen and (max-width: 760px) {
+    .clear{
+        clear: both;
+    }
+    #masthead,
+    #header_container {
+        display: none;
+    }
+    #header_mobile {
+        display: block;
+        position: relative;
+        width: 100%;
+        height: 65px;
+        border-bottom: 5px solid rgb(0, 0, 0);
+    }
+    #header_mobile #branding_mobile {
+        width: 80px;
+        margin: 12px auto 0 auto;
+    }
+    #header_mobile #branding_mobile img {
+        height: 52px;
+    }
+    #main_content {
+        width: 95%;
+        margin: 0 auto;
+    }
+    .grid-item.first-entry .entry-well-header {
+        border-top: 0;
+    }
+}

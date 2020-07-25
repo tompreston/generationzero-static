@@ -1,0 +1,59 @@
+<div id="menu-dropdown" class="pure-g hide">
+	<div id="menu-dropdown-categories" class="pure-u-1-2">
+		<div class="menu-dropdown-title">
+			Categories
+		</div>
+		<div class="pure-g menu-dropdown-category-list">
+			{{ range $name, $items := .Site.Taxonomies.categories }}
+			<div class="pure-u-1-4 menu-dropdown-category-list-item">
+				<a href="{{ "categories/" | relURL }}{{ $name }}">
+					{{ $name }}
+				</a>
+			</div>
+			{{ else }}
+			<div>No categories</div>
+			{{ end }}
+		</div>
+	</div>
+	<div id="menu-dropdown-contact" class="pure-u-1-4">
+		<div class="menu-dropdown-title">
+			Contact
+		</div>
+		<p id="menu-dropdown-contact-email">
+		<a href="mailto:jacob_ormrod@hotmail.com">jacob_ormrod@hotmail.com</a>
+		</p>
+		<p>
+		For submissions, please contact us via email or Facebook.
+		</p>
+	</div>
+	<div id="menu-dropdown-social"class="pure-u-1-4">
+		<div class="menu-dropdown-title">
+			Social
+		</div>
+		<ul>
+			<li>
+				<a href="https://www.facebook.com/GenerationZeroMagazine/"
+				   class="sociallink">
+					<img src="/img/social/Sm_Icons_Facebook.png"
+					     alt="GenerationZero Facebook"
+					     id="facebook-link">
+				</a>
+			</li>
+			<li>
+				<a href="https://twitter.com/GenZeroMag" class="sociallink">
+					<img src="/img/social/Sm_Icons_1_Twitter.png"
+					     alt="GenerationZero Twitter"
+					     id="twitter-link">
+				</a>
+			</li>
+			<li>
+				<a href="https://www.instagram.com/generationzer0magazine/"
+				   class="sociallink">
+					<img src="/img/social/Sm_Icons_Instagram.png"
+					     alt="GenerationZero Instagram"
+					     id="instagram-link">
+				</a>
+			</li>
+		</ul>
+	</div>
+</div>

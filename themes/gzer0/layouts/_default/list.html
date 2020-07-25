@@ -1,0 +1,15 @@
+{{ define "main" }}
+<p>This is the _default/list.html</p>
+<ul>
+{{ range .Pages }}
+<li>
+	<a href="{{ .Permalink }}">{{ .Title }}</a>
+	{{- if .Params.images -}}
+		, {{ .Params.images }}
+	{{- else -}}
+	, {{ .Summary }}
+	{{- end -}}
+</li>
+{{ end }}
+</ul>
+{{ end }}
