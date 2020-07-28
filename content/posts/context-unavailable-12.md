@@ -9,7 +9,7 @@ categories:
 - Photography
 date: '2020-05-01T13:49:54Z'
 images:
-- (https://imgur.com/5nqlAmQ.png
+- https://imgur.com/5nqlAmQ.png
 title: 'context unavailable #12'
 ---
 ![](https://imgur.com/5nqlAmQ.png "")
