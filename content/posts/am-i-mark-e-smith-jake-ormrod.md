@@ -8,43 +8,43 @@ images:
 - https://i.imgur.com/iJXELpP.jpg
 title: Am I Mark E. Smith? by Jake Ormrod
 ---
-We spoke about him<br>
-in bed,<br>
-how my head was similar<br>
-sinister<br>
-unable to see life beyond extremes.<br>
+We spoke about him  
+in bed,  
+how my head was similar  
+sinister  
+unable to see life beyond extremes.  
 
-Now you're gone,<br>
-and the fear of streams<br>
-carrying me far away<br>
-are hard to erase<br>
-just days to consider why you left<br>
-why my head is bereft of the necessary terms to keep you here.<br>
+Now you're gone,  
+and the fear of streams  
+carrying me far away  
+are hard to erase  
+just days to consider why you left  
+why my head is bereft of the necessary terms to keep you here.  
 
-Your departure is one in a long line<br>
-meaning it's time to ask<br>
-Am I Mark E. Smith?<br>
+Your departure is one in a long line  
+meaning it's time to ask  
+Am I Mark E. Smith?  
 
-Not if I have his wit<br>
-or his writing agility<br>
-or if i'm slowly building up to his drinking ability<br>
-but if i'm a git who is destined to this<br>
-who will poke, prod and push<br>
-the people he loves<br>
-till they're gone.<br>
+Not if I have his wit  
+or his writing agility  
+or if i'm slowly building up to his drinking ability  
+but if i'm a git who is destined to this  
+who will poke, prod and push  
+the people he loves  
+till they're gone.  
 
-My answer is no.<br>
-I Am Not Mark E. Smith.<br>
+My answer is no.  
+I Am Not Mark E. Smith.  
 
-I am a man in control<br>
-one who wants out of this<br>
-who is slowly climbing his way<br>
-out of this combative abyss.<br>
+I am a man in control  
+one who wants out of this  
+who is slowly climbing his way  
+out of this combative abyss.  
 
-I hope you will join me<br>
-be my teammate through this shift,<br>
-and will see that, most definitely,<br>
-I Am Not Mark E. Smith.<br>
+I hope you will join me  
+be my teammate through this shift,  
+and will see that, most definitely,  
+I Am Not Mark E. Smith.  
 
 _**If you'd like to follow and support Jake Ormrod, you can regularly check this site or donate money to his Patreon [here.](https://www.patreon.com/JakeOrmrod "")**_
 

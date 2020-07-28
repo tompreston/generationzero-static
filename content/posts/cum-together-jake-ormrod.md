@@ -6,39 +6,39 @@ categories:
 date: '2019-10-09T07:38:18Z'
 title: cum together by Jake Ormrod
 ---
-i have often forgotten myself while lost inside of you<br>
-the world no match for a smash and grab attack<br>
-of lust and wonder<br>
-of wet and warmth<br>
-of suck and<br>
-blow<br>
-by<br>
-blow<br>
+i have often forgotten myself while lost inside of you  
+the world no match for a smash and grab attack  
+of lust and wonder  
+of wet and warmth  
+of suck and  
+blow  
+by  
+blow  
 the arguments<br> 
-start to stack up<br>
-that leaving your room is pointless<br>
-when there’s nothing out there that can excite me quite like you<br>
+start to stack up  
+that leaving your room is pointless  
+when there’s nothing out there that can excite me quite like you  
 
-there’s no such thing as come too soon<br>
-inadequacy from years past<br>
-combined with an SSRI<br>
-held back at the crucial<br>
-moment<br>
-by<br>
-moment<br>
-i start to lose it<br>
-torment<br>
-to falter at your alter at the last second<br>
+there’s no such thing as come too soon  
+inadequacy from years past  
+combined with an SSRI  
+held back at the crucial  
+moment  
+by  
+moment  
+i start to lose it  
+torment  
+to falter at your alter at the last second  
 
-however<br>
+however  
 
-on days and nights when the vibrations are right we<br>
-come together in ecstasy on a sodden mattress<br>
-our bodies denying the routine<br>
-spurred on by each other<br>
-into wave<br>
-after wave<br>
-of<br>
-love<br>
+on days and nights when the vibrations are right we  
+come together in ecstasy on a sodden mattress  
+our bodies denying the routine  
+spurred on by each other  
+into wave  
+after wave  
+of  
+love  
 
 _**This poem was written for the upcoming Come Together Exhibition. You can follow Jake Ormrod on [Twitter](https://twitter.com/Jake_Ormrod "")and [Instagram.](https://www.instagram.com/generationzer0mag/ "")**_

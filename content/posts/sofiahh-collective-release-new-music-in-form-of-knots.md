@@ -26,6 +26,6 @@ The track and video were recorded entirely live in a disused mill in Manchester,
  
 With support for their previous project coming from the likes of Mary Anne Hobbs, Steve Lamacq, NME and The Skinny, SOFIAHH intend to pick up from where they left off, with live dates and further releases to follow.
 
-[Youtube](https://www.youtube.com/channel/UCwInnSoGBro6SzZHDJuatPA "")<br>
-[Twitter](https://twitter.com/thencamesofiahh "")<br>
-[Soundcloud](https://soundcloud.com/thencamesofiahh "")<br>
+[Youtube](https://www.youtube.com/channel/UCwInnSoGBro6SzZHDJuatPA "")  
+[Twitter](https://twitter.com/thencamesofiahh "")  
+[Soundcloud](https://soundcloud.com/thencamesofiahh "")  

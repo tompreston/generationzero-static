@@ -8,9 +8,9 @@ images:
 - https://i.imgur.com/QxXp7jv.png
 title: Study of Butoh Dancer Falling by Stephanie Hamer
 ---
-Study of Butoh Dancer Falling (2019)<br>
-Oil, acrylic & gouache on board<br>
-90x120cm<br>
+Study of Butoh Dancer Falling (2019)  
+Oil, acrylic & gouache on board  
+90x120cm  
 
 Created as part of the ongoing ‘Butoh Studies’ series.
 

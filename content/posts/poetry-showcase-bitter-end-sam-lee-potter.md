@@ -8,17 +8,17 @@ images:
 - http://i.imgur.com/0SRrgIu.jpg
 title: Poetry Showcase - Bitter End by Sam Lee-Potter
 ---
-On the mountain<br>
-The Neanderthal kneels softly onto cool stone<br>
-Blood glistening in the night<br>
-Final breaths turn to silver<br>
+On the mountain  
+The Neanderthal kneels softly onto cool stone  
+Blood glistening in the night  
+Final breaths turn to silver  
 
-A mile below<br>
+A mile below  
 
-Heavenly bodies find him<br>
-Hands trembling over torn flesh<br>
-Teeth clenched<br>
-Eyes fastened in envy<br>
+Heavenly bodies find him  
+Hands trembling over torn flesh  
+Teeth clenched  
+Eyes fastened in envy  
 
 **_
 Sam is from the North West doing time in the Far East._**

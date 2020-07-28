@@ -12,12 +12,12 @@ Here we have a poem from Sam Lee-Potter, a close friend currently living in Chin
 
 **Late Shift**
 
-Night reveals a field<br>
-Of half-light static,<br>
-Shapes dance, surrender<br>
-To the mind’s eye<br>
-The room dilates, fades out to<br>
-Warm touch, flashing smiles<br>
+Night reveals a field  
+Of half-light static,  
+Shapes dance, surrender  
+To the mind’s eye  
+The room dilates, fades out to  
+Warm touch, flashing smiles  
 
 **_
 Sam is from the North West doing time in the Far East._**

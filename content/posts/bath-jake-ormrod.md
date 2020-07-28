@@ -6,28 +6,28 @@ categories:
 date: '2019-09-27T14:47:19Z'
 title: bath by Jake Ormrod
 ---
-water taps<br>
-at my toes<br>
-the heat close to discomfort<br>
+water taps  
+at my toes  
+the heat close to discomfort  
 
-i got in dry<br>
-to take<br>
-a look at myself<br>
+i got in dry  
+to take  
+a look at myself  
 
-an extra<br>
-five minutes<br>
-to add to years of<br>
+an extra  
+five minutes  
+to add to years of  
 
-judgement<br>
-self-obsession<br>
-and insecurity<br>
+judgement  
+self-obsession  
+and insecurity  
 
-until<br>
-the water<br>
-rises above my stomach<br>
+until  
+the water  
+rises above my stomach  
 
-ripples distort me<br>
-comfort<br>
-for another day<br>
+ripples distort me  
+comfort  
+for another day  
 
 **_You can follow Jake Ormrod on [Twitter](https://twitter.com/Jake_Ormrod "")and [Instagram.](https://www.instagram.com/generationzer0mag/ "")_**

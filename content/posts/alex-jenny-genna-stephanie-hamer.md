@@ -12,18 +12,18 @@ _These three oil paintings represent the first in an ongoing series of work exam
 
 ![](https://i.imgur.com/y0JtRg3.jpg "")
 
-Alex (2018)<br>
-Oil & Acrylic on board<br>
-45x60cm<br>
+Alex (2018)  
+Oil & Acrylic on board  
+45x60cm  
 
 ![](https://i.imgur.com/WgRPQhT.jpg "")
 
-Jenny (2018)<br>
-Oil & Acrylic on board<br>
-45x60cm<br>
+Jenny (2018)  
+Oil & Acrylic on board  
+45x60cm  
 
 ![](https://i.imgur.com/9h8m5Vx.jpg "")
 
-Genna (2018)<br>
-Oil & Acrylic on board<br>
-45x60cm<br>
+Genna (2018)  
+Oil & Acrylic on board  
+45x60cm  

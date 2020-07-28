@@ -6,86 +6,86 @@ categories:
 date: '2018-03-21T15:08:13Z'
 title: "pla\xE7a de mercat poem by Jenny Browne"
 ---
-sun’s warm tongue<br>
-licks at the corners<br>
-walls of houses<br>
-bathed in yellow<br>
-balconies built of<br>
-roses flags strung<br>
-flapping wildly<br>
-so many curves<br>
+sun’s warm tongue  
+licks at the corners  
+walls of houses  
+bathed in yellow  
+balconies built of  
+roses flags strung  
+flapping wildly  
+so many curves  
 
-i could be<br>
-running<br>
-fingers down your<br>
-outline in my head<br>
-comparing your<br>
-dips and swells to<br>
-that green villa<br>
-on the carrer de la<br>
-boatella<br>
-my darling<br>
-how it loops around<br>
+i could be  
+running  
+fingers down your  
+outline in my head  
+comparing your  
+dips and swells to  
+that green villa  
+on the carrer de la  
+boatella  
+my darling  
+how it loops around  
 toward the orange<br> 
-tree<br>
-and you bend<br>
-to my will<br>
+tree  
+and you bend  
+to my will  
 
 i should hang from<br> 
-you a flower<br>
-basket creeping<br>
-wisteria entwining<br>
-wrapping<br>
-flesh to flesh oh<br>
-if i had roots i <br>
-would grow into<br>
-you<br>
+you a flower  
+basket creeping  
+wisteria entwining  
+wrapping  
+flesh to flesh oh  
+if i had roots i   
+would grow into  
+you  
 
-the veranda could<br>
-become your<br>
+the veranda could  
+become your  
 shrine     every drip<br> 
-of morning dew<br>
-settled on a petal<br>
-reflection of<br>
-perfect nipple<br>
-toasting the sun<br>
-standing to attention<br>
+of morning dew  
+settled on a petal  
+reflection of  
+perfect nipple  
+toasting the sun  
+standing to attention  
 
-this morning<br>
-the blinds drawn<br>
-half up half<br>
-folded as the <br>
-sheet covers only<br>
-half of you<br>
+this morning  
+the blinds drawn  
+half up half  
+folded as the   
+sheet covers only  
+half of you  
 
-what’s left <br>
-splayed out <br>
-in the<br>
-sun fragments of<br>
-light bounce off<br>
-your bones<br>
-tangled in a<br>
-matted crown of<br>
-morning hair<br>
+what’s left   
+splayed out   
+in the  
+sun fragments of  
+light bounce off  
+your bones  
+tangled in a  
+matted crown of  
+morning hair  
 leaning in close<br> 
-enough to <br>
+enough to   
 feel your breath<br> 
-on me but i don’t<br>
-touch you<br>
-not just yet<br>
+on me but i don’t  
+touch you  
+not just yet  
 
-you rest in the <br>
-soft deep soil<br>
-warmed by the<br>
-spanish sun<br>
-in your own leafy<br>
-corner of the<br>
-flower box or<br>
-maybe heaven<br>
-strung<br>
-up<br>
-admiring the<br>
-view as i <br>
-do you<br>
+you rest in the   
+soft deep soil  
+warmed by the  
+spanish sun  
+in your own leafy  
+corner of the  
+flower box or  
+maybe heaven  
+strung  
+up  
+admiring the  
+view as i   
+do you  
 
 **Jenny Browne will be submitting poems every month from now on. Continue to check back to see her work.**
