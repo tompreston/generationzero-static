@@ -3,7 +3,11 @@ languageCode = "en-gb"
 title = "Generation Zero"
 #theme = "ananke"
 theme = "gzer0"
-#paginate = 12
+paginate = 30
+
+# This only works on long paragraphs. Forced to 300 in theme:
+# themes/gzer0/layouts/partials/entry-well.html
+summaryLength = 300
 
 [taxonomies]
   author = "authors"
