@@ -193,7 +193,30 @@ p#menu-dropdown-contact-email {
     font-size: 0.8em;
 }
 
-/* footer stuff */
+.default-list-container ul {
+	list-style: none;
+}
+
+.default-list-container ul > li {
+	text-align: center;
+}
+
+.default-list-container,
+ul.pagination {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+ul.pagination li.page-item {
+	display: inline-block;
+	margin: 0.2em;
+}
+
+ul.pagination li.page-item.active a {
+	color: black;
+}
+
 .footer {
     width: 100%;
     border-top: 4px solid rgb(0, 0, 0);

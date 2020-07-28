@@ -9,8 +9,7 @@
 	{{ partialCached "site-favicon.html" . }}
 	{{ end }}
 
-	<!-- Stylesheets -->
-	<link rel="stylesheet" type="text/css" href="{{ "css/main.css" | relURL }}">
+	<!-- External stylesheets -->
 	<link rel="stylesheet"
 		href="https://unpkg.com/purecss@1.0.0/build/pure-min.css"
 		integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w"
@@ -24,6 +23,12 @@
 		href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-min.css">
 	<!--<![endif]-->
 
+	<!-- Internal stylesheets -->
+	<link rel="stylesheet" type="text/css" href="{{ "css/main.css" | relURL }}">
+	<link rel="stylesheet" type="text/css" href="{{ "css/home_page.css" | relURL }}">
+	<link rel="stylesheet" type="text/css" href="{{ "css/entry_well.css" | relURL }}">
+	<link rel="stylesheet" type="text/css" href="{{ "css/entry_detail.css" | relURL }}">
+
 	<!-- Javascript -->
 	<script src="https://code.jquery.com/jquery-1.12.4.min.js"
 		integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
@@ -31,5 +36,7 @@
 	<script type="text/javascript"
 		src="{{ "js/masthead.js" | relURL }}"
 		charset="utf-8"></script>
+	<script type="text/javascript" src="{{ "js/masonry.pkgd.min.js" | relURL }}" charset="utf-8"></script>
+	<script src="https://unpkg.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
 
 </head>

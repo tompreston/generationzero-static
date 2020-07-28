@@ -7,11 +7,11 @@
 			{{ range $name, $items := .Site.Taxonomies.categories }}
 			<div class="pure-u-1-4 menu-dropdown-category-list-item">
 				<a href="{{ "categories/" | relURL }}{{ $name }}">
-					{{ $name }}
+					{{ $name | title }}
 				</a>
 			</div>
 			{{ else }}
-			<div>No categories</div>
+			<div class="pure-u-1-4">No categories</div>
 			{{ end }}
 		</div>
 	</div>
@@ -26,7 +26,7 @@
 		For submissions, please contact us via email or Facebook.
 		</p>
 	</div>
-	<div id="menu-dropdown-social"class="pure-u-1-4">
+	<div id="menu-dropdown-social" class="pure-u-1-4">
 		<div class="menu-dropdown-title">
 			Social
 		</div>

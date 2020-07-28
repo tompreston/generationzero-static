@@ -1,0 +1,27 @@
+<div class="entry-well">
+	<a href="{{ .Permalink }}" class="entry-link"><span></span></a>
+	<div class="entry-well-header">
+		<div class="entry-well-title">
+			{{ .Title | title }}
+		</div>
+		<div class="entry-well-date">
+			{{ .Date.Format "01.02.2006" }}
+		</div>
+		<div class="entry-well-categories">
+			{{ delimit (apply .Params.categories "title" ".") ", " }}
+		</div>
+	</div>
+	<div class="entry-well-content">
+		{{ if .Params.images }}
+		<img src="{{ index .Params.images 0 }}" alt="Image for {{ .Title }}">
+		{{ else if .Summary }}
+		<div class="entry-well-content-text">
+			{{ .Summary | truncate 300 }}
+		</div>
+		{{ else }}
+		<div class="entry-well-content-text">
+			{{ .Title | title }}
+		</div>
+		{{ end }}
+	</div>
+</div>

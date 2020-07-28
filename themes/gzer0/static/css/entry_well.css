@@ -1,0 +1,54 @@
+/* ENTRY WELL */
+.entry-well {
+    position: relative;
+}
+.entry-well a.entry-link {
+  position:absolute;
+  width:100%;
+  height:100%;
+  top:0;
+  left: 0;
+  z-index: 1;
+}
+
+.entry-well-header {
+    display: none;
+    position: absolute;
+    background: white;
+    width: 100%;
+    border-top: 5px solid rgb(0, 0, 0);
+    padding: 10px 5px 10px 5px;
+}
+.entry-well-title,
+.entry-well-date {
+    text-transform: uppercase;
+}
+
+.entry-well-categories {
+    font-size: 0.8em;
+}
+
+.entry-well-content {
+    background: black;
+    font-size: 2em;
+    color: white;
+}
+
+.entry-well-content-text {
+    padding: 20px;
+}
+
+.entry-well-content img {
+    width: 100%
+}
+
+/* Smartphones */
+@media only screen and (max-width: 760px) {
+    .entry-well-header {
+        display: block;
+        position: static;
+    }
+    .entry-well-content {
+        /*padding-top: 90px;*/
+    }
+}

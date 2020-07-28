@@ -1,15 +1,12 @@
 {{ define "main" }}
-<p>This is the _default/list.html</p>
-<ul>
-{{ range .Pages }}
-<li>
-	<a href="{{ .Permalink }}">{{ .Title }}</a>
-	{{- if .Params.images -}}
-		, {{ .Params.images }}
-	{{- else -}}
-	, {{ .Summary }}
-	{{- end -}}
-</li>
-{{ end }}
-</ul>
+<div class="grid">
+	<div class="grid-sizer"></div>
+	<div class="gutter-sizer"></div>
+	{{ range $i, $post := .Paginator.Pages }}
+	<div class="grid-item {{ if $i }}first-entry{{ end }}">
+		{{ partial "entry-well" . }}
+	</div>
+	{{ end }}
+</div>
+{{ template "_internal/pagination.html" . }}
 {{ end }}
