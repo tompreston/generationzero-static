@@ -1,5 +1,5 @@
 <div class="entry-well">
-	<a href="{{ .Permalink }}" class="entry-link"><span></span></a>
+	<a href="{{ .RelPermalink }}" class="entry-link"><span></span></a>
 	<div class="entry-well-header">
 		<div class="entry-well-title">
 			{{ .Title | title }}
@@ -16,7 +16,7 @@
 
 		{{ if $well_image }}
 		{{ $well_image_resized := $well_image.Resize "600x" }}
-		<img src="{{ $well_image_resized.Permalink }}" alt="Image for {{ .Title }}">
+		<img src="{{ $well_image_resized.RelPermalink }}" alt="Image for {{ .Title }}">
 
 		{{ else if .Summary }}
 		<div class="entry-well-content-text">
