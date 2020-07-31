@@ -1,6 +1,15 @@
 # Generation Zero Website (static)
 This is a static version of http://generationzero.org.uk/
 
+## TODO
+- [x] Basic clone of site
+- [x] Pull cover images
+- [x] Pull content images
+- [ ] Test new pages
+- [ ] Change domain
+- [ ] Email Jake
+
+## Why change backend from Django to Hugo static site generator?
 There are several problems with maintaining the Django backend:
 - I forget how to make changes because there's a long time between updates.
 - Django updates (changes) more often than I update the site, which adds
