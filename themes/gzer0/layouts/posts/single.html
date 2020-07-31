@@ -1,40 +1,40 @@
 {{ define "main" }}
 <div class="entry-container">
 
-  <div class="entry-title">
-      {{ .Title }}
-  </div>
+	<div class="entry-title">
+		{{ .Title }}
+	</div>
 
-  <!-- inline entry-into, only for smartphones -->
-  <div class="entry-info smartphone">
-      <div class="entry-date">
-          {{ .Date.Format "02.01.2006" }}
-      </div>
-      <div class="entry-author">
-          Author &dash; {{ delimit .Params.authors ", " }}
-      </div>
-      <div class="entry-categories">
-          {{ delimit (apply .Params.categories "title" ".") ", " }}
-      </div>
-  </div>
+	<!-- inline entry-into, only for smartphones -->
+	<div class="entry-info smartphone">
+		<div class="entry-date">
+			{{ .Date.Format "02.01.2006" }}
+		</div>
+		<div class="entry-author">
+			Author &dash; {{ delimit .Params.authors ", " }}
+		</div>
+		<div class="entry-categories">
+			{{ delimit (apply .Params.categories "title" ".") ", " }}
+		</div>
+	</div>
 
-  <!-- floating entry-into, not for smartphones -->
-  <div class="entry-info notsmartphone">
-      <div class="entry-date">
-          {{ .Date.Format "02.01.2006" }}
-      </div>
-      <div class="entry-author">
-          Author &dash; {{ delimit .Params.authors ", " }}
-          <!-- TODO add extra authors -->
-      </div>
-      <div class="entry-categories">
-          {{ delimit (apply .Params.categories "title" ".") ", " }}
-      </div>
-  </div>
+	<!-- floating entry-into, not for smartphones -->
+	<div class="entry-info notsmartphone">
+		<div class="entry-date">
+			{{ .Date.Format "02.01.2006" }}
+		</div>
+		<div class="entry-author">
+			Author &dash; {{ delimit .Params.authors ", " }}
+			<!-- TODO add extra authors -->
+		</div>
+		<div class="entry-categories">
+			{{ delimit (apply .Params.categories "title" ".") ", " }}
+		</div>
+	</div>
 
-  <div class="entry-content">
-      {{ .Content }}
-  </div>
+	<div class="entry-content">
+		{{ .Content }}
+	</div>
 
 </div>
 {{ end }}
