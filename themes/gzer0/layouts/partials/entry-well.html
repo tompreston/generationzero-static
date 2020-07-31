@@ -12,12 +12,17 @@
 		</div>
 	</div>
 	<div class="entry-well-content">
-		{{ if .Params.images }}
-		<img src="{{ index .Params.images 0 }}" alt="Image for {{ .Title }}">
+		{{ $well_image := .Resources.GetMatch "cover" }}
+
+		{{ if $well_image }}
+		{{ $well_image_resized := $well_image.Resize "600x" }}
+		<img src="{{ $well_image_resized.Permalink }}" alt="Image for {{ .Title }}">
+
 		{{ else if .Summary }}
 		<div class="entry-well-content-text">
 			{{ .Summary | truncate 300 }}
 		</div>
+
 		{{ else }}
 		<div class="entry-well-content-text">
 			{{ .Title | title }}
