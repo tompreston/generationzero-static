@@ -1,11 +1,27 @@
 # Generation Zero Website (static)
-This is a static version of http://generationzero.org.uk/
+This is a static version of the Gerneration Zero website.
+
+- Old version http://generationzero.org.uk/
+- New version (test) https://generationzero-static.onrender.com/
+
+I will keep the old URL if we decide to update it like this.
+
+In summary, the new features are:
+
+- Pagination, so we don't show hundreds of posts on the first page.
+- Smaller images on the home page (you won't notice).
+- Because of the above, 10x faster home page loading.
+- Category and author lists:
+    - https://generationzero-static.onrender.com/
+    - https://generationzero-static.onrender.com/posts/
+    - https://generationzero-static.onrender.com/categories/
+    - https://generationzero-static.onrender.com/authors/
 
 ## TODO
 - [x] Basic clone of site
 - [x] Pull cover images
 - [x] Pull content images
-- [ ] Test new pages
+- [ ] Test pull request previews, fix auto deploy
 - [ ] Change domain
 - [ ] Email Jake
 - [ ] Update Generation Zero main GitHub repo
