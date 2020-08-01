@@ -8,22 +8,30 @@ This is a static version of http://generationzero.org.uk/
 - [ ] Test new pages
 - [ ] Change domain
 - [ ] Email Jake
+- [ ] Update Generation Zero main GitHub repo
 
-## Why change backend from Django to Hugo static site generator?
+## Why change backend from Django (dynamic) to Hugo static site generator?
+- [Django](https://www.djangoproject.com/)
+- [Hugo](https://gohugo.io/).
+
 There are several problems with maintaining the Django backend:
-- I forget how to make changes because there's a long time between updates.
-- Django updates (changes) more often than I update the site, which adds
+- I forget how to make changes because there's a long time between updates, this
+  makes updating the website quite laborious.
+- Django updates and changes more often than I update the site, which adds
   unnecessary work.
 - The content isn't really dynamic since we only update via the admin interface.
 - Deploying the website isn't robust, and prone to mistakes.
-- The database is a single file on the web server, and isn't backed up very often.
-- It's against imgur's TOS to host the images as we are.
+- The database is a single file on the web server, and isn't backed up very
+  often.
+- It's against imgur's TOS to host the images as we are. If they found out,
+  they're at liberty to delete all of it.
 
 This new version:
 - Simplifies and optimises the website logic by using [Hugo](https://gohugo.io/).
-- Easier and cheaper (free?) to deploy using [Render](https://render.com/).
+  - For example, the new home page loads 10x faster because images are optimised.
+- Easier and cheaper (free!) to deploy using [Render](https://render.com/).
 - Implicit data backup because it is stored in GitHub.
-- Self-hosting images, so we're not breaking any rules.
+- We host the images, so we're not breaking any imgur rules.
 
 The change will require a change in workflow when updating content. Instead of
 adding *entries* to the admin interface, now we add *posts* to GitHub. Render
@@ -45,8 +53,8 @@ To add a new post:
    the post content in Markdown. See the example below.
 4. Upload any image resources with "Add file" > "Upload files" and reference
    them in the front matter. It doesn't matter what they're called.
-5. Add a commit summary like "Add my-new-post" and either commit to the master
-   branch (go live!) or create a "new branch" start a pull-request (preview).
+5. Add a commit summary like "Add my-new-post" and commit to the master branch
+   to go live.
 
 ```
 ---
@@ -78,6 +86,24 @@ But you can also use the Markdown syntax like this:
 
 - The format for the "front matter" is called YAML.
 - The format for the content is called Markdown.
+
+## Markdown tips
+- Instead of using `<br>` tags, you can force new lines by putting two spaces at
+  the end of a line.
+- Hugo comes with "shortcodes" for figures (images), tweets, instagram, YouTube,
+  etc - which you can use instead of HTML tags `<img>` and `<iframes>`.
+  [Check them out](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes).
+
+Markdown docs:
+
+- https://daringfireball.net/projects/markdown/
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- https://www.markdowntutorial.com/
+- https://www.markdownguide.org/
+
+YAML docs:
+
+- https://yaml.org/spec/1.2/spec.html#Preview
 
 ## License
 The artistic content is copyrighted to the respective artists for now, you must
