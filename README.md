@@ -3,8 +3,7 @@ This is a static version of the Gerneration Zero website.
 
 - Old version http://generationzero.org.uk/
 - New version (test) https://generationzero-static.onrender.com/
-
-I will keep the old URL if we decide to update it like this.
+    - I will keep the old URL if we decide to update it like this.
 
 In summary, the new features are:
 
@@ -16,19 +15,24 @@ In summary, the new features are:
     - https://generationzero-static.onrender.com/posts/
     - https://generationzero-static.onrender.com/categories/
     - https://generationzero-static.onrender.com/authors/
+- I've removed the "Issues" feature since it wasn't used - but it's trivial to
+  add back.
+
+It will require a change in workflow, which I need to check with Jake.
 
 ## TODO
 - [x] Basic clone of site
 - [x] Pull cover images
 - [x] Pull content images
-- [ ] Test pull request previews, fix auto deploy IN PROGRESS, 3
-- [ ] Change domain
+- [x] Test pull request previews
 - [ ] Email Jake
+- [ ] Change domain
 - [ ] Update Generation Zero main GitHub repo
 
 ## Why change backend from Django (dynamic) to Hugo static site generator?
 - [Django](https://www.djangoproject.com/)
 - [Hugo](https://gohugo.io/).
+- [Difference between static and dynamic website](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
 
 There are several problems with maintaining the Django backend:
 - I forget how to make changes because there's a long time between updates, this
