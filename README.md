@@ -11,10 +11,10 @@ In summary, the new features are:
 - Smaller images on the home page (you won't notice).
 - Because of the above, 10x faster home page loading.
 - Category and author lists:
-    - https://generationzero-static.onrender.com/
-    - https://generationzero-static.onrender.com/posts/
-    - https://generationzero-static.onrender.com/categories/
-    - https://generationzero-static.onrender.com/authors/
+    - https://generation-zero.onrender.com/
+    - https://generation-zero.onrender.com/posts/
+    - https://generation-zero.onrender.com/categories/
+    - https://generation-zero.onrender.com/authors/
 - I've removed the "Issues" feature since it wasn't used - but it's trivial to
   add back.
 
