@@ -21,7 +21,7 @@ In summary, the new features are:
 - [x] Basic clone of site
 - [x] Pull cover images
 - [x] Pull content images
-- [ ] Test pull request previews, fix auto deploy IN PROGRESS, 2
+- [ ] Test pull request previews, fix auto deploy IN PROGRESS, 3
 - [ ] Change domain
 - [ ] Email Jake
 - [ ] Update Generation Zero main GitHub repo
