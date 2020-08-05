@@ -67,7 +67,7 @@ The post directories contain two things:
 
 To add a new post:
 
-1. Using the GitLab web interface, go to `content/posts`.
+1. Using the GitHub web interface, go to `content/posts`.
 2. Click "Add file" > "Create new file", call it `my-new-post/index.md`.
 3. Add the content "front matter" sandwiched in between two `---` lines, and
    the post content in Markdown. See the example below.
