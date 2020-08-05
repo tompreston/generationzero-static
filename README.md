@@ -31,7 +31,7 @@ It will require a change in workflow, which I need to check with Jake.
 
 ## Why change backend from Django (dynamic) to Hugo static site generator?
 - [Django](https://www.djangoproject.com/)
-- [Hugo](https://gohugo.io/).
+- [Hugo](https://gohugo.io/)
 - [Difference between static and dynamic website](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
 
 There are several problems with maintaining the Django backend:
