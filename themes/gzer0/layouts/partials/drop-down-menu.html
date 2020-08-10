@@ -20,7 +20,9 @@
 			Contact
 		</div>
 		<p id="menu-dropdown-contact-email">
-		<a href="mailto:jacob_ormrod@hotmail.com">jacob_ormrod@hotmail.com</a>
+			<a href="mailto:{{ $.Site.Params.contact_email }}">
+				{{ $.Site.Params.contact_email }}
+			</a>
 		</p>
 		<p>
 		For submissions, please contact us via email or Facebook.
@@ -31,29 +33,33 @@
 			Social
 		</div>
 		<ul>
+			{{ if $.Site.Params.facebook }}
 			<li>
-				<a href="https://www.facebook.com/GenerationZeroMagazine/"
-				   class="sociallink">
+				<a href="{{ $.Site.Params.facebook }}" class="sociallink">
 					<img src="/img/social/Sm_Icons_Facebook.png"
 					     alt="GenerationZero Facebook"
 					     id="facebook-link">
 				</a>
 			</li>
+			{{ end }}
+			{{ if $.Site.Params.twitter }}
 			<li>
-				<a href="https://twitter.com/GenZeroMag" class="sociallink">
+				<a href="{{ $.Site.Params.twitter }}" class="sociallink">
 					<img src="/img/social/Sm_Icons_1_Twitter.png"
 					     alt="GenerationZero Twitter"
 					     id="twitter-link">
 				</a>
 			</li>
+			{{ end }}
+			{{ if $.Site.Params.instagram }}
 			<li>
-				<a href="https://www.instagram.com/generationzer0magazine/"
-				   class="sociallink">
+				<a href="{{ $.Site.Params.instagram }}" class="sociallink">
 					<img src="/img/social/Sm_Icons_Instagram.png"
 					     alt="GenerationZero Instagram"
 					     id="instagram-link">
 				</a>
 			</li>
+			{{ end }}
 		</ul>
 	</div>
 </div>

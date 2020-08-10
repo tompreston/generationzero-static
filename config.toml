@@ -14,3 +14,9 @@ summaryLength = 300
 [taxonomies]
   author = "authors"
   category = "categories"
+
+[params]
+  contact_email = "jacob_ormrod@hotmail.com"
+  instagram = "https://www.instagram.com/generationzer0magazine/"
+  facebook = "https://www.facebook.com/GenerationZeroMagazine/"
+  twitter = "https://twitter.com/GenZeroMag"
