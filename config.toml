@@ -1,14 +1,16 @@
 baseURL = "http://generationzero.org.uk/"
 languageCode = "en-gb"
 title = "Generation Zero"
-#theme = "ananke"
 theme = "gzer0"
+
+# This number is how many posts get displayed on each list page
 paginate = 30
 
 # This only works on long paragraphs. Forced to 300 in theme:
 # themes/gzer0/layouts/partials/entry-well.html
 summaryLength = 300
 
+# Each taxonomy gets a list page
 [taxonomies]
   author = "authors"
   category = "categories"
