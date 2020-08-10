@@ -25,7 +25,7 @@ It will require a change in workflow, which I need to check with Jake.
 - [x] Pull cover images
 - [x] Pull content images
 - [x] Test pull request previews
-- [ ] Email Jake
+- [x] Email Jake
 - [ ] Change domain
 - [ ] Update Generation Zero main GitHub repo
 
