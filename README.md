@@ -54,13 +54,16 @@ resources:
   src: my-cool-cover.jpg
 - src: some-other-picture.jpg
 title: This is a new post!
+draft: true
 ---
-Hi, this is the new content layout!
+This is the content, and the front-matter is between `---`.
+Remove `draft: true` to make the post go live (or set it to false).
 
 One of the resources has a `name: cover`. If you remove this, a text summary
 will be displayed instead.
 
-The "correct" way to display images with Hugo content is like this:
+You have to list all images under "resources".  The "correct" way to display
+images with Hugo content is like this:
 
     {{< figure src="some-other-picture.jpg" title="Some Other Picture" >}}
 
