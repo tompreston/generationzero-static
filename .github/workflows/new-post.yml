@@ -28,6 +28,7 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Runs a single command using the runners shell
+    - name: Install Hugo
+      run: apt-get install -y hugo
     - name: Create new post
       run: hugo new posts/${{ github.event.inputs.slug }}/index.md
