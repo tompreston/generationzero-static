@@ -25,7 +25,7 @@ before we switch.
 Posts are directories (folders) in `content/posts`. The directory name is the
 post *slug* (the post's URL).  The post directories contain two things:
 
-1. `index.md`, this is the actual content and "front matter" (see below)
+1. `index.md`, this contains actual content and "front matter" (see below)
 2. Resources like image files (png, jpg)
 
 To add a new post:
@@ -44,7 +44,7 @@ To add a new post:
 ```
 ---
 authors:
-- Thomas Preston
+- Jake Ormrod
 categories:
 - design
 - writing
