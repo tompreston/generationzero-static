@@ -22,6 +22,15 @@ It changes the way we add new posts, Tom has to confirm Jake is OK with this
 before we switch.
 
 ## Adding a new post to Generation Zero static
+Templates for new posts (with video instructions):
+
+| Template | Video |
+| -------- | ----- |
+| [Minimal](https://raw.githubusercontent.com/tompreston/generationzero-static/master/archetypes/minimal.md) | Video TODO |
+| [Cover](https://raw.githubusercontent.com/tompreston/generationzero-static/master/archetypes/cover.md) | Video TODO |
+| [Images](https://raw.githubusercontent.com/tompreston/generationzero-static/master/archetypes/images.md) | Video TODO |
+| [Full](https://raw.githubusercontent.com/tompreston/generationzero-static/master/archetypes/default.md) | Video TODO |
+
 Posts are directories (folders) in `content/posts`. The directory name is the
 post *slug* (the post's URL).  The post directories contain two things:
 
