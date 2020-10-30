@@ -26,7 +26,7 @@ Templates for new posts (with video instructions):
 
 | Template | Video |
 | -------- | ----- |
-| [Minimal](https://raw.githubusercontent.com/tompreston/generationzero-static/master/archetypes/minimal.md) | Video TODO |
+| [Minimal](https://raw.githubusercontent.com/tompreston/generationzero-static/master/archetypes/minimal.md) | https://youtu.be/e1wqeC10XCM |
 | [Cover](https://raw.githubusercontent.com/tompreston/generationzero-static/master/archetypes/cover.md) | Video TODO |
 | [Images](https://raw.githubusercontent.com/tompreston/generationzero-static/master/archetypes/images.md) | Video TODO |
 | [Full](https://raw.githubusercontent.com/tompreston/generationzero-static/master/archetypes/default.md) | Video TODO |
