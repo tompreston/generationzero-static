@@ -1,9 +1,14 @@
 # Generation Zero Website (static)
-This is a static version of the Gerneration Zero website.
+This is a "static" version of the Gerneration Zero website.
 
-- Try the new version (test) https://generationzero-static-8l2w.onrender.com/
-    - I will keep the old URL if we decide to update it like this.
-- Old version http://generationzero.org.uk/
+"Static" in the context of this website means that you can't change the live
+website via an admin interface (ie. dynamic website) to add new content (posts,
+images). To add new content to a static site you have to add files to this
+project.
+
+Try the new version (test) https://generationzero-static-8l2w.onrender.com/
+
+If we decide to keep this, I will change the URL to http://generationzero.org.uk/
 
 In summary, the new features are:
 
